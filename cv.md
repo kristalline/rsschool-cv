@@ -1,6 +1,4 @@
-![avatar](images/avatar.jpg.jpg){width=300 height=200}
 # Svetlana Selivanova
-
 *Junior Frontend Developer*
 
 ## Contacts:
