@@ -1,3 +1,3 @@
 # Rsschool CV
 
-cv: https://kristalline.github.io/rsschool-cv/
+https://kristalline.github.io/rsschool-cv/
